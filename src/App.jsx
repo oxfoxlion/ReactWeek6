@@ -5,7 +5,7 @@ function App() {
 
   return (
     <>
-      <p>第六周主線</p>
+      <p className='text-primary'>第六周主線</p>
     </>
   )
 }
